@@ -1,5 +1,5 @@
 # Emoji-Interpreter-app
-This app is a shows the meaning of an entered which is made as part of level zero of neog camp.
+This app is a shows the meaning of an entered emoji which is made as part of level zero of neog camp.
 ## Technologies
 * HTML5
 * CSS3
